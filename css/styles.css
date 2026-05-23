@@ -1,0 +1,69 @@
+body {
+    margin: 3vw;
+    background-image: url("../images/background-img.jpg");
+    background-repeat: repeat;
+}
+
+h1 {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-size: 35px;
+  font-style: normal;
+  color: #B9193C;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-size: 30px;
+  font-style: normal;
+  color: #B9193C;
+}
+
+h3 {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-size: 25px;
+  font-style: normal;
+  color: #B9193C;
+  margin-bottom: 0;
+}
+
+h4 {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-size: 20px;
+  font-style: normal;
+  color: #B9193C;
+  margin-bottom: 0;
+}
+
+p {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-size: 15px;
+  font-style: normal;
+  color: #292929;
+  margin-top: 0;
+}
+
+li {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 15px;
+  font-style: normal;
+  margin-top: 5;
+}
+
+
+img {
+    border-radius: 1vw;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
